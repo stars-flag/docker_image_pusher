@@ -1,1 +1,1 @@
---platform=linux/arm64 nicolaka/netshoot:v0.14
+--platform=linux/arm64/v8 busybox:stable
