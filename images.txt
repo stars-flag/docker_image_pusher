@@ -1,2 +1,2 @@
 #--platform=linux/arm64/v8 tomcat:8.5.99-jdk8
-python:3.9.12
+--platform=linux/amd64 python:3.9.12
