@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 busybox:stable
+--platform=linux/arm64/v8 tomcat:8.5.99-jdk8
