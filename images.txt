@@ -1,3 +1,4 @@
 #--platform=linux/arm64/v8 tomcat:8.5.99-jdk8
 #--platform=linux/amd64 python:3.9.12
-paddlepaddle/paddle:2.1.1
+#paddlepaddle/paddle:2.1.1
+--platform=linux/arm64/v8 python:3.9.12
