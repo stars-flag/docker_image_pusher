@@ -5,4 +5,5 @@
 #--platform=linux/arm64/v8 nginx:1.29.3
 #allinurl/goaccess:latest
 #falcosecurity/falco:0.43.0
-sysdig/sysdig:0.41.4
+#sysdig/sysdig:0.41.4
+falcosecurity/falco-driver-loader:0.43.0
