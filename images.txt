@@ -6,4 +6,5 @@
 #allinurl/goaccess:latest
 #falcosecurity/falco:0.43.0
 #sysdig/sysdig:0.41.4
-falcosecurity/falco-driver-loader:0.43.0
+#falcosecurity/falco-driver-loader:0.43.0
+otel/opentelemetry-collector:0.149.0
