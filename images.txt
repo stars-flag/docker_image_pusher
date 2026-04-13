@@ -8,4 +8,4 @@
 #sysdig/sysdig:0.41.4
 #falcosecurity/falco-driver-loader:0.43.0
 #otel/opentelemetry-collector:0.149.0
---platform=linux/arm64/v8 linux/arm64/v8
+--platform=linux/arm64/v8 mysql:8.0.45
