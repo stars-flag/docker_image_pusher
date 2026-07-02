@@ -9,4 +9,5 @@
 #falcosecurity/falco-driver-loader:0.43.0
 #otel/opentelemetry-collector:0.149.0
 #--platform=linux/arm64/v8 mysql:8.0.45
-unclecode/crawl4ai:latest
+#unclecode/crawl4ai:latest
+redis:alpine
